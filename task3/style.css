@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(230, 231, 233);
+}
+h2{
+    text-align: center;
+}
+span.letter {
+    font-style: italic;
+    color:rgb(199, 57, 57);
+    font-weight: bold;
+}
+span.formula {
+    font-size:1.4em;
+    background-color: rgb(223, 160, 160);
+}
+p.center{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
