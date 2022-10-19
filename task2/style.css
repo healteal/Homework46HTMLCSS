@@ -1,0 +1,35 @@
+h1{
+    font-weight:bolder;
+    text-align: center;
+}
+h3{
+    text-align: right;
+    font-style: italic;
+    font-weight: normal;
+}
+p.small{
+    font-size: small;
+    text-align: right;
+}
+span.letter{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+p{
+    text-align: justify;
+}
+span.op80{
+    opacity: 80%;
+}
+span.op60{
+    opacity: 60%;
+}
+span.op40{
+    opacity: 40%;
+}
+span.op20{
+    opacity: 20%;
+}
+body{
+    background-color: rgb(230, 231, 233);
+}
