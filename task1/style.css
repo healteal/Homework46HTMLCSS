@@ -1,0 +1,29 @@
+h1{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 2px;
+}
+h2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    color:blue;
+    font-variant: small-caps;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: justify;
+    text-indent: 13px;
+}
+ol{
+    list-style-type:upper-roman;
+    font-size: 18px;
+    line-height: 90%;
+    text-align: justify;
+}
+span{
+    font-style: italic;
+}
